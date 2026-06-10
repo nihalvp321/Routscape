@@ -178,7 +178,7 @@ Administrators can:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/routescape.git
+git clone https://github.com/nihalvp321/routescape.git
 cd routescape
 ```
 
